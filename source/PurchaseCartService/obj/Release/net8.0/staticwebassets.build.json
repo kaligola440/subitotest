@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5W7hZORBklmbW7qUraV+NSM0kGRQHhQDvruBG3cydlc=",
+  "Source": "PurchaseCartService",
+  "BasePath": "_content/PurchaseCartService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

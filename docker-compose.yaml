@@ -1,0 +1,7 @@
+version: '3.8'
+services:
+  purchase-cart:
+    image: purchase-cart:latest
+    build:
+      context: .
+      dockerfile: ./Dockerfile

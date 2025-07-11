@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abosio\\Desktop\\Subito\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7360CDDB-F84B-425E-BFAF-709AA2FA6B25}|PurchaseCartService\\PurchaseCartService.csproj|c:\\users\\abosio\\desktop\\subito\\src\\purchasecartservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7360CDDB-F84B-425E-BFAF-709AA2FA6B25}|PurchaseCartService\\PurchaseCartService.csproj|solutionrelative:purchasecartservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7360CDDB-F84B-425E-BFAF-709AA2FA6B25}|PurchaseCartService\\PurchaseCartService.csproj|c:\\users\\abosio\\desktop\\subito\\src\\purchasecartservice\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7360CDDB-F84B-425E-BFAF-709AA2FA6B25}|PurchaseCartService\\PurchaseCartService.csproj|solutionrelative:purchasecartservice\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7360CDDB-F84B-425E-BFAF-709AA2FA6B25}|PurchaseCartService\\PurchaseCartService.csproj|c:\\users\\abosio\\desktop\\subito\\src\\purchasecartservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7360CDDB-F84B-425E-BFAF-709AA2FA6B25}|PurchaseCartService\\PurchaseCartService.csproj|solutionrelative:purchasecartservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\abosio\\Desktop\\Subito\\src\\PurchaseCartService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "PurchaseCartService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\abosio\\Desktop\\Subito\\src\\PurchaseCartService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "PurchaseCartService\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-11T11:51:00.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\abosio\\Desktop\\Subito\\src\\PurchaseCartService\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "PurchaseCartService\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\abosio\\Desktop\\Subito\\src\\PurchaseCartService\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "PurchaseCartService\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T11:46:48.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abosio\\Desktop\\Subito\\src\\PurchaseCartService\\Program.cs",
+              "RelativeDocumentMoniker": "PurchaseCartService\\Program.cs",
+              "ToolTip": "C:\\Users\\abosio\\Desktop\\Subito\\src\\PurchaseCartService\\Program.cs",
+              "RelativeToolTip": "PurchaseCartService\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T11:45:17.642Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
