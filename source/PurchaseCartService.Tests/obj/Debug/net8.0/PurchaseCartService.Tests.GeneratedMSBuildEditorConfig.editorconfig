@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PurchaseCartService.Tests
-build_property.ProjectDir = C:\Users\abosio\Desktop\Subito\src\PurchaseCartService.Tests\
+build_property.ProjectDir = C:\Work\subitotest\source\PurchaseCartService.Tests\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

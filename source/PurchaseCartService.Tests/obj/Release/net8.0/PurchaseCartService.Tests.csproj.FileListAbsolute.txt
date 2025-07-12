@@ -460,3 +460,4 @@
 /mnt/source/PurchaseCartService.Tests/obj/Release/net8.0/PurchaseCartService.Tests.pdb
 /mnt/source/PurchaseCartService.Tests/obj/Release/net8.0/PurchaseCartService.Tests.genruntimeconfig.cache
 /mnt/source/PurchaseCartService.Tests/obj/Release/net8.0/ref/PurchaseCartService.Tests.dll
+/mnt/source/PurchaseCartService.Tests/obj/Release/net8.0/PurchaseCartService.Tests.sourcelink.json

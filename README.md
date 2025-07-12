@@ -44,9 +44,9 @@ $apiUrl = "http://localhost:9090/api/orders"
 # Corpo JSON dell'ordine (puoi modificare i prodotti/quantità)
 $body = @{
     items = @(
-        @{ product_id = 1;  quantity = 2 }
-        @{ product_id = 4;  quantity = 1 }
-        @{ product_id = 6;  quantity = 3 }
+        @{ product_id = 1;  quantity = 1 }
+        @{ product_id = 2;  quantity = 5 }
+        @{ product_id = 3;  quantity = 1 }
     )
 } | ConvertTo-Json -Depth 3
 
@@ -66,12 +66,12 @@ Esempio di risposta attesa:
 ```json
 {
   "order_id": 1720704789,
-  "order_price": 1250.87,
-  "order_vat": 270.45,
+  "order_price": 12.5,
+  "order_vat": 1.25,
   "items": [
-    { "product_id": 1, "quantity": 2, "price": 4.0, "vat": 0.4 },
-    { "product_id": 4, "quantity": 1, "price": 15.9, "vat": 0.64 },
-    { "product_id": 6, "quantity": 3, "price": 1230.97, "vat": 269.41 }
+    { "product_id": 1, "quantity": 1, "price": 2, "vat": 0.2 },
+    { "product_id": 2, "quantity": 5, "price": 7.5, "vat": 0.75 },
+    { "product_id": 3, "quantity": 1, "price": 3, "vat": 0.3 }
   ]
 }
 ```
@@ -91,7 +91,20 @@ Esempio di risposta attesa:
 
 ## Test
 
-I test sono inclusi nel progetto `PurchaseCartService.Tests` e verificano il corretto calcolo del totale ordine e dell'IVA a partire da prodotti salvati su database
+I test sono inclusi nel progetto `PurchaseCartService.Tests` e possono essere lanciati tramite lo script 
+
+```bash
+docker run -v $(pwd):/mnt -p 9090:9090 -w /mnt mytest ./scripts/tests.sh
+```
+
+La copertura attuale è la seguente:
+
+| Test                                    | Caso verificato                                           |
+| ----------------------------------------| --------------------------------------------------------- |
+| `CreateOrder_CalculatesTotalsCorrectly` | Calcolo totale e IVA su due prodotti validi               |
+| `CreateOrder_SkipsUnknownProducts`      | Gestione prodotto non esistente (ignorato nei calcoli)    |
+| `CreateOrder_HandlesZeroQuantity`       | Gestione quantità **0** (riga presente ma price=0, vat=0) |
+
 
 ---
 

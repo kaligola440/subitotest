@@ -3635,24 +3635,32 @@
     ]
   },
   "packageFolders": {
-    "/root/.nuget/packages/": {}
+    "C:\\Users\\abosio\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/mnt/source/PurchaseCartService/PurchaseCartService.csproj",
+      "projectUniqueName": "C:\\Work\\subitotest\\source\\PurchaseCartService\\PurchaseCartService.csproj",
       "projectName": "PurchaseCartService",
-      "projectPath": "/mnt/source/PurchaseCartService/PurchaseCartService.csproj",
-      "packagesPath": "/root/.nuget/packages/",
-      "outputPath": "/mnt/source/PurchaseCartService/obj/",
+      "projectPath": "C:\\Work\\subitotest\\source\\PurchaseCartService\\PurchaseCartService.csproj",
+      "packagesPath": "C:\\Users\\abosio\\.nuget\\packages\\",
+      "outputPath": "C:\\Work\\subitotest\\source\\PurchaseCartService\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/root/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\abosio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -3714,7 +3722,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.412/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

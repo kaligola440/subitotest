@@ -472,3 +472,4 @@
 /mnt/source/PurchaseCartService/obj/Release/net8.0/PurchaseCartService.pdb
 /mnt/source/PurchaseCartService/obj/Release/net8.0/PurchaseCartService.genruntimeconfig.cache
 /mnt/source/PurchaseCartService/obj/Release/net8.0/ref/PurchaseCartService.dll
+/mnt/source/PurchaseCartService/obj/Release/net8.0/PurchaseCartService.sourcelink.json

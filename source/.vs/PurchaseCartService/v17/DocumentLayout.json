@@ -1,17 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\abosio\\Desktop\\Subito\\src\\",
+  "WorkspaceRootPath": "C:\\Work\\subitotest\\source\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7360CDDB-F84B-425E-BFAF-709AA2FA6B25}|PurchaseCartService\\PurchaseCartService.csproj|c:\\users\\abosio\\desktop\\subito\\src\\purchasecartservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{235E27E9-8FE8-42E4-853D-9352F49B5A5E}|PurchaseCartService.Tests\\PurchaseCartService.Tests.csproj|c:\\work\\subitotest\\source\\purchasecartservice.tests\\orderservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{235E27E9-8FE8-42E4-853D-9352F49B5A5E}|PurchaseCartService.Tests\\PurchaseCartService.Tests.csproj|solutionrelative:purchasecartservice.tests\\orderservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7360CDDB-F84B-425E-BFAF-709AA2FA6B25}|PurchaseCartService\\PurchaseCartService.csproj|c:\\work\\subitotest\\source\\purchasecartservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7360CDDB-F84B-425E-BFAF-709AA2FA6B25}|PurchaseCartService\\PurchaseCartService.csproj|solutionrelative:purchasecartservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7360CDDB-F84B-425E-BFAF-709AA2FA6B25}|PurchaseCartService\\PurchaseCartService.csproj|c:\\users\\abosio\\desktop\\subito\\src\\purchasecartservice\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7360CDDB-F84B-425E-BFAF-709AA2FA6B25}|PurchaseCartService\\PurchaseCartService.csproj|c:\\work\\subitotest\\source\\purchasecartservice\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7360CDDB-F84B-425E-BFAF-709AA2FA6B25}|PurchaseCartService\\PurchaseCartService.csproj|solutionrelative:purchasecartservice\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7360CDDB-F84B-425E-BFAF-709AA2FA6B25}|PurchaseCartService\\PurchaseCartService.csproj|c:\\users\\abosio\\desktop\\subito\\src\\purchasecartservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{7360CDDB-F84B-425E-BFAF-709AA2FA6B25}|PurchaseCartService\\PurchaseCartService.csproj|c:\\work\\subitotest\\source\\purchasecartservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{7360CDDB-F84B-425E-BFAF-709AA2FA6B25}|PurchaseCartService\\PurchaseCartService.csproj|solutionrelative:purchasecartservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 17,
+          "SelectedChildIndex": 15,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,11 +90,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "OrderServiceTests.cs",
+              "DocumentMoniker": "C:\\Work\\subitotest\\source\\PurchaseCartService.Tests\\OrderServiceTests.cs",
+              "RelativeDocumentMoniker": "PurchaseCartService.Tests\\OrderServiceTests.cs",
+              "ToolTip": "C:\\Work\\subitotest\\source\\PurchaseCartService.Tests\\OrderServiceTests.cs",
+              "RelativeToolTip": "PurchaseCartService.Tests\\OrderServiceTests.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBUAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T05:52:48.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\abosio\\Desktop\\Subito\\src\\PurchaseCartService\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Work\\subitotest\\source\\PurchaseCartService\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "PurchaseCartService\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\abosio\\Desktop\\Subito\\src\\PurchaseCartService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Work\\subitotest\\source\\PurchaseCartService\\Properties\\launchSettings.json",
               "RelativeToolTip": "PurchaseCartService\\Properties\\launchSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -98,25 +115,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "OrdersController.cs",
-              "DocumentMoniker": "C:\\Users\\abosio\\Desktop\\Subito\\src\\PurchaseCartService\\Controllers\\OrdersController.cs",
+              "DocumentMoniker": "C:\\Work\\subitotest\\source\\PurchaseCartService\\Controllers\\OrdersController.cs",
               "RelativeDocumentMoniker": "PurchaseCartService\\Controllers\\OrdersController.cs",
-              "ToolTip": "C:\\Users\\abosio\\Desktop\\Subito\\src\\PurchaseCartService\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Work\\subitotest\\source\\PurchaseCartService\\Controllers\\OrdersController.cs",
               "RelativeToolTip": "PurchaseCartService\\Controllers\\OrdersController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAJAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCAAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-11T11:46:48.493Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\abosio\\Desktop\\Subito\\src\\PurchaseCartService\\Program.cs",
+              "DocumentMoniker": "C:\\Work\\subitotest\\source\\PurchaseCartService\\Program.cs",
               "RelativeDocumentMoniker": "PurchaseCartService\\Program.cs",
-              "ToolTip": "C:\\Users\\abosio\\Desktop\\Subito\\src\\PurchaseCartService\\Program.cs",
+              "ToolTip": "C:\\Work\\subitotest\\source\\PurchaseCartService\\Program.cs",
               "RelativeToolTip": "PurchaseCartService\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABGAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAjwCMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-11T11:45:17.642Z",
               "EditorCaption": ""
